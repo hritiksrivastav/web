@@ -150,17 +150,16 @@ else{
                 </div>
                 <div class="col-lg-6">
                     <div class="ha-text">
-                        <h2>Convener <sub>Parampara 2K24</sub></h2>
+                        <h2>Welcome to Parampara 2K24</h2>
                         <p>
-                            All the Parampara events and Competitions done under the <b>Mr. Manoj Mishra</b> Sir. He is lead the whole parampara event.
+                            Welcome one and all to Parampara, our college’s beacon of tradition and innovation! As the Convener of this grand fest, it is my pleasure to extend a heartfelt invitation to immerse yourself in the rich tapestry of our cultural heritage and contemporary talents.
                         </p>
-                        <ul>
-                            <li><span class="icon_check"></span> All event heads report him</li>
-                            <li><span class="icon_check"></span> All sponsorship comes under him</li>
-                            <li><span class="icon_check"></span> All Parampara events get verified through him</li>
-                            <li><span class="icon_check"></span> All decipline member came under him</li>
-                        </ul>
-                        <!-- <a href="#" class="ha-btn">Discover Now</a> -->
+                        <p>
+                            Parampara stands as a testament to our enduring customs and the new paths we forge. This year, we bring you a plethora of events that celebrate both our roots and our wings—from classical art forms to modern-day workshops, engaging debates to enthralling performances.
+                        </p>
+                        <p>
+                            In my role as the Convener, I am committed to orchestrating an event that honors our past while embracing the future. It is my duty to ensure that Parampara not only entertains but also inspires, leaving a lasting impression on all who join us.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -174,12 +173,104 @@ else{
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
-                        <h2>Our Event Leaders</h2>
-                        <p>There are 3 type of events in Parampara. Technical, Cultural, & Sport.</p>
+                        <h2>Our Coordinators</h2>
+                        <p>Respect the Guidence and Experience</p>
                     </div>
                 </div>
             </div>
         </div>
+
+    <!-- Home About Section Begin -->
+    <section class="home-about-section spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="ha-text">
+                        <h2>Cultural Event Coordinator - Parampara</h2>
+                        <p>
+                            Embark on a journey through tradition and modernity with Parampara, our college fest that celebrates the rich tapestry of our heritage. As the Cultural Event Coordinator, you are the custodian of our legacy, orchestrating a symphony of events that resonate with the timeless rhythms of our culture.
+                        </p>
+                        <p>
+                        Key Responsibilities:
+                        
+                        </p>
+                        <ul type="bullets">
+                            <li style="list-style-type:bullets;"> Crafting a vibrant mosaic of cultural showcases that honor our past while embracing the future.</li>
+                            <li style="list-style-type:bullets;"> Fostering collaborations that bridge the gap between classical and contemporary art forms.</li>
+                            <li style="list-style-type:bullets;"> Scheduling a panorama of events that cater to an array of artistic tastes and preferences.</li>
+                            <li style="list-style-type:bullets;"> Managing the seamless execution of events, ensuring each moment is etched in the annals of our history.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="ha-pic">
+                        <img src="image/teachers/head.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Home About Section End -->
+
+    <!-- Home About Section Begin -->
+    <section class="home-about-section spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="ha-pic">
+                        <img src="image/teachers/head.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="ha-text">
+                        <h2>Technical Event Coordinator - Parampara</h2>
+                        <p>
+                        Dive into the confluence of heritage and innovation at Parampara, where we celebrate the legacy of the past while forging the future. As the Technical Event Coordinator, you are the catalyst for change, the pioneer leading our quest for knowledge and technological prowess.
+                        </p>
+                        <p>
+                        We Are Looking For:
+                        
+                        </p>
+                        <ul type="bullets">
+                            <li style="list-style-type:bullets;"> A visionary with a deep respect for our roots and an eye on the horizon of technology.</li>
+                            <li style="list-style-type:bullets;"> Proven experience in orchestrating technical events that captivate and educate.</li>
+                            <li style="list-style-type:bullets;"> The ability to create a platform where ancient practices meet modern tech solutions.</li>
+                            <!-- <li style="list-style-type:bullets;"> Managing the seamless execution of events, ensuring each moment is etched in the annals of our history.</li> -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Home About Section End -->
+
+    <!-- Home About Section Begin -->
+    <section class="home-about-section spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="ha-text">
+                        <h2>Welcome to Parampara 2K24</h2>
+                        <p>
+                            Welcome one and all to Parampara, our college’s beacon of tradition and innovation! As the Convener of this grand fest, it is my pleasure to extend a heartfelt invitation to immerse yourself in the rich tapestry of our cultural heritage and contemporary talents.
+                        </p>
+                        <p>
+                            Parampara stands as a testament to our enduring customs and the new paths we forge. This year, we bring you a plethora of events that celebrate both our roots and our wings—from classical art forms to modern-day workshops, engaging debates to enthralling performances.
+                        </p>
+                        <p>
+                            In my role as the Convener, I am committed to orchestrating an event that honors our past while embracing the future. It is my duty to ensure that Parampara not only entertains but also inspires, leaving a lasting impression on all who join us.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="ha-pic">
+                        <img src="image/teachers/head.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Home About Section End -->
 
         <!-- Technical -->
         <?php
